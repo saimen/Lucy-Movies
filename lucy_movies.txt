@@ -1,24 +1,38 @@
-Mr. Holmes
-The Big Lebowski
-Finding Forrester
-The Garden of Words
-Field of Dreams
-(Reign over me)
-(laggies)
-(Dear white people)
-The hundred foot journey
-Tekkonkinreet
-The little death
-Burning Palms
-(Top Five)
-the invention of lying
-good will hunting
-wellcome to wellville
-happythankyoumoreplease
-liberal arts
-north by northwest
-scott pilgrim versus the world
-Meet the Robinsons
-Perfect Sense
+# Movie list for Lucy
 
-every frame a painting (youtube channel https://www.youtube.com/user/everyframeapainting, basically everything in there)
+## Drama
+* Mr. Holmes
+* Finding Forrester
+* Field of Dreams
+* Reign over me
+* Laggies
+* Good Will Hunting
+
+## Anime/Animated
+* The Garden of Words
+* Tekkonkinreet
+* Meet the Robinsons
+
+## Comedy
+* The Big Lebowski
+* Dear white people
+* Be kind Rewind
+* Top Five
+* Scott Pilgrim versus the World
+* The Invention of Lying
+* Wellcome to Wellville
+
+## Thriller/Crime
+* North by Northwest
+
+## Uncategorized
+
+* The hundred foot journey
+* The little death
+* Burning Palms
+* Happythankyoumoreplease
+* Liberal Arts
+* Perfect Sense
+
+## Youtube
+* Every Frame a Painting (youtube channel https://www.youtube.com/user/everyframeapainting, basically everything in there)
