@@ -7,6 +7,7 @@
 * Reign over me
 * Laggies
 * Good Will Hunting
+* The Woman in Gold
 
 ## Anime/Animated
 * The Garden of Words
@@ -27,8 +28,9 @@
 
 ## Uncategorized
 
-* The hundred foot journey
-* The little death
+* The Hundred Foot Journey
+* Chef
+* The Little Death
 * Burning Palms
 * Happythankyoumoreplease
 * Liberal Arts
